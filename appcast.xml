@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sheaf: PDF Reader</title>
+    <link>https://thecobuild.pages.dev/sheaf/</link>
+    <description>Updates for Sheaf: PDF Reader for Mac.</description>
+    <language>en</language>
+    <item>
+      <title>Sheaf 0.9</title>
+      <pubDate>Tue, 10 Nov 2026 01:55:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The first public beta of Sheaf: PDF Reader.</p><ul><li>Free to read, for good. Sheaf Pro (editing, annotating, signing, page tools, OCR and AI) is free for 14 days, then US$20 a year or included in CoBuild Pro.</li><li>Page thumbnails now show everything you add (text, pictures, stamps, highlights).</li><li>Read aloud sounds natural: it reads sentence by sentence, highlights as it goes and uses the best voice on your Mac.</li><li>Updates now install from inside the app.</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/sheaf/releases/download/v0.9/Sheaf.dmg" length="15051595" type="application/octet-stream" sparkle:edSignature="BBG8AnQXs2GEs+GibPQmrjcPg/5yxBhvGknFrqCxicIGlbmSdmUMaq1yxVQC5Jin+qvo0SjJVB8SM8bGjUk5CQ=="/>
+    </item>
+  </channel>
+</rss>
