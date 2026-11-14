@@ -6,6 +6,15 @@
     <description>Updates for Sheaf: PDF Reader for Mac.</description>
     <language>en</language>
     <item>
+      <title>Sheaf 0.9.5</title>
+      <pubDate>Sat, 14 Nov 2026 06:30:00 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Steadier, with more you can do.</p><ul><li>The page no longer jumps after you redact, blur or move things on it.</li><li>Blur as well as Redact, for text and pictures.</li><li>Fill for boxes and ovals, plus Bring to Front and Send to Back from the right-click menu.</li><li>Sticky notes that look like notes.</li><li>The Format panel fits the window and opens by itself when you pick a tool.</li><li>Any Mac font when adding or editing text, with bold, italic and colour.</li><li>Built-in AI with nothing to set up (your own key still works).</li><li>Sheaf now works with CoBuild for Claude.</li><li>One slim header row, remove files from Recent, set Sheaf as your default PDF app, smoother scrolling.</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/sheaf/releases/download/v0.9.5/Sheaf.dmg" length="16071616" type="application/octet-stream" sparkle:edSignature="2Q9I7nWTaIWVItYr0dj351aOp5ZjQ0czQuIpw46m6JaVIMOw/ul8rxtI0Yyv30TcjAtXncJb5hGI5s612W0gBQ=="/>
+    </item>
+    <item>
       <title>Sheaf 0.9</title>
       <pubDate>Tue, 10 Nov 2026 01:55:00 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
