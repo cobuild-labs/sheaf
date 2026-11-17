@@ -2,9 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Sheaf: PDF Reader</title>
-    <link>https://thecobuild.pages.dev/sheaf/</link>
+    <link>https://thecobuild.com/sheaf/</link>
     <description>Updates for Sheaf: PDF Reader for Mac.</description>
     <language>en</language>
+    <item>
+      <title>Sheaf 0.9.5</title>
+      <pubDate>Tue, 17 Nov 2026 02:00:00 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Sheaf now connects through CoBuild's new home, thecobuild.com,</b> for your licence, built-in AI and CoBuild for Claude.</p><ul><li>General bug fixes and performance improvements</li></ul>]]></description>
+      <enclosure url="https://github.com/cobuild-labs/sheaf/releases/download/v0.9.5-b4/Sheaf.dmg" sparkle:edSignature="5d+n5fhZ1ZXIe/iiQZAB8ueOZ2mc+kMhLGHNutGCB+oExr9jHnpdd++X7joP9PQKZZOnJuuQomTSR5ITR3gaBw==" length="16072278" type="application/octet-stream"/>
+    </item>
     <item>
       <title>Sheaf 0.9.5</title>
       <pubDate>Sat, 14 Nov 2026 06:30:00 +0000</pubDate>
